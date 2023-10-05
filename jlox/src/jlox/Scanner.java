@@ -104,7 +104,10 @@ public class Scanner
                 {
                     identifier();
                 }
-                Lox.error(line, "Unexpected Character");
+                else
+                {
+                    Lox.error(line, "Unexpected Character");
+                }
                 break;
         }
     }
