@@ -15,15 +15,6 @@ To run the Zenith interpreter, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Compile the Java code using `javac`.
-3. Run the interpreter with your Zenith script or enter interactive mode.
-
-```shell
-# Running a Zenith script
-java jlox.Lox your_script.zen
-
-# Entering interactive mode
-java jlox.Lox
-```
 
 ## Future Plans
 - **Parser**: Implement a parser to build an Abstract Syntax Tree (AST).
