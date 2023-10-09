@@ -5,7 +5,7 @@
 ## Progress
 
 - [x] Lexer: The lexer is responsible for tokenizing the source code.
-- [x] Token Types: We've defined various token types for the language.
+- [x] Token Types: I've defined various token types for the language.
 - [x] Error Handling: Basic error handling for unexpected characters.
 - [x] Basic Language Features: Support for comments, numbers, strings, and identifiers.
 
