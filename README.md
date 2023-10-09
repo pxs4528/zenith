@@ -1,6 +1,6 @@
-# Zenith
+# zenith
 
-**Zenith** (Zero-Effort Interpreter for Teaching and Hacking) is a simple interpreter for a made-up programming language, written in Java. This project aims to provide a basic understanding of interpreter design and implementation, making it a great educational resource for those interested in language development.
+**zenith** (Zero-Effort Interpreter for Teaching and Hacking) is a simple interpreter for a made-up programming language, written in Java. This project aims to provide a basic understanding of interpreter design and implementation, making it a great educational resource for those interested in language development.
 
 ## Progress
 
