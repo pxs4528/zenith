@@ -93,6 +93,7 @@ public class Scanner
 
             case '\n':
                 line++;
+                break;
             case '"': string(); break;
 
             default:
@@ -104,7 +105,10 @@ public class Scanner
                 {
                     identifier();
                 }
-                Lox.error(line, "Unexpected Character");
+                else
+                {
+                    Lox.error(line, "Unexpected Character");
+                }
                 break;
         }
     }
